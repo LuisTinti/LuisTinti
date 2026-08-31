@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 design.<br>edição de vídeo.
 
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tinti011_) 
 
 # 💻 Tech Stack:
