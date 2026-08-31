@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-design.<br>edição de vídeo.<br>python.
+designer gráfico.<br>edição de vídeo.<br>python.
 
 
 ## 🌐 Redes sociais:
