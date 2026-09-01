@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# ❓ Sobre mim:
 designer gráfico.<br>edição de vídeo.<br>python.
 
 
